@@ -1,25 +1,32 @@
 <h5>Max Healthcare | Assessment</h5>
 <h1>Frontend Generator</h1>
 <h4>Screenshot to React JSX + CSS</h4>
-Submitted By: Bhavuk Sagar (Bhavuksagar@gmail.com)
+<p>Submitted By: Bhavuk Sagar (Bhavuksagar@gmail.com)</p>
 
-Problem Statement
-Create a basic AI-powered tool that can take a screenshot of a webpage design and automatically generate the corresponding React JSX and CSS code.
-Objective
+<h2>Problem Statement</h2>
+<p>Create a basic AI-powered tool that can take a screenshot of a webpage design and automatically generate the corresponding React JSX and CSS code.</p>
+
+<h2>Objective</h2>
 Build a simple AI-powered Streamlit web app that:
-Accepts a user-uploaded screenshot of a webpage design.
-Sends the image to Gen-AI Model.
-Returns and displays the generated React JSX and CSS code.
- Tech Stack
+<ul>
+<li>Accepts a user-uploaded screenshot of a webpage design.</li>
+<li>Sends the image to Gen-AI Model.</li>
+<li>Returns and displays the generated React JSX and CSS code.</li>
+
+</ul>
+<h2>Tech Stack</h2>
 Followings are the tech and tool which are used in creating the app:
-Frontend/UI: Streamlit
-Backend/AI: OpenAI GPT-4o (via API)
-Language: Python 3x
-Libraries:
+<ul>
+<li>Frontend/UI: Streamlit</li>
+<li>Backend/AI: OpenAI GPT-4o (via API)</li>
+<li>Language: Python 3x</li>
+<li>Libraries:
 streamlit
 openai
 Os 
 Base64
+</ul>
+
 
 
  Setup instructions
