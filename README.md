@@ -1,6 +1,6 @@
-Max Healthcare | Assessment
-Frontend Generator
-Screenshot to React JSX + CSS
+<h5>Max Healthcare | Assessment</h5>
+<h1>Frontend Generator</h1>
+<h4>Screenshot to React JSX + CSS</h4>
 Submitted By: Bhavuk Sagar (Bhavuksagar@gmail.com)
 
 Problem Statement
